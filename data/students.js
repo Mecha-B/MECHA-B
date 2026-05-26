@@ -493,7 +493,7 @@ const students = [
     whatsapp: "https://wa.me/8801713675309",
     facebook: "https://www.facebook.com/share/18mDNBbCJP/",
     email: "mailto:ririfatstudy01771@gmail.com",
-    quote: "Design. Build. Test. Repeat."
+    quote: "Follow Your Heart"
   },
           {
     name: "Pranto Kumar ",
