@@ -138,5 +138,5 @@ function getStep() {
 
     const gap = 20; // fixed value is MORE stable than computed style
 
-    return (card.offsetWidth + gap) * 5;
+    return (card.offsetWidth + gap) * 2;
 }
