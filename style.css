@@ -222,10 +222,11 @@ header h1 {
 }
 
 .main-icon {
-    width: 550px;
-    height: 210px;
+    width: 90%;
+    max-width: 550px;
+    height: auto;
     object-fit: cover;
-    border-radius: 10px
+    border-radius: 10px;
 }
 
 .social-icon {
