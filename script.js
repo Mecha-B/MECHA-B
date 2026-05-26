@@ -114,7 +114,7 @@ function getCardScrollAmount() {
     const width = card.offsetWidth;
     const gap = parseInt(style.marginRight || 20);
 
-    return (width + gap) * 5; // 5 cards at once
+    return (width + gap) * 2; // 5 cards at once
 }
 prevBtn.addEventListener("click", () => {
     pauseAutoScroll();
