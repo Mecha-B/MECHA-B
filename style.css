@@ -229,15 +229,18 @@ header h1 {
     border-radius: 10px;
 }
 
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
 .social-icon {
     width: 25px;
     height: 25px;
     border-radius: 50%;
     object-fit: cover;
 
-    margin-top: 10px;
-
-    transition: 0.3s ease;
+    display: block;
 }
 
 .social-icon:hover {
