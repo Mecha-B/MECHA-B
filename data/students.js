@@ -14,7 +14,7 @@ const students = [
     name: "Md Jisan",
     roll: "2402062",
     college: "St. Joseph Higher Secondary School,Dhaka",
-    hometown: "-Kustia",
+    hometown: "-Kushtia",
     image: "group/2402062.jpg",
     whatsapp: "https://wa.me/8801792106394",
     facebook: "https://www.facebook.com/md.jisan.196145",
@@ -387,7 +387,7 @@ const students = [
           {
     name: "Md Nasibur Rahaman ",
     roll: "2402098",
-    college: "Dinajpur Government College",
+    college: "Notre Dame College",
     hometown: "-Kushtia",
     image: "group/2402098.jpg",
     whatsapp: "https://wa.me/8801792081117 ",
